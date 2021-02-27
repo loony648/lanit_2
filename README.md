@@ -2,6 +2,7 @@
 Программа собирает данные о новых случаях COVID-19. И после выводит перцентиль.
 Все данные берутся из https://covid.ourworldindata.org/data/owid-covid-data.json
 Список кодов стран:
+```
 AFG
 OWID_AFR
 AFG
@@ -217,4 +218,4 @@ OWID_WRL
 YEM
 ZMB
 ZWE
-"""
+```
