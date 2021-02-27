@@ -1,6 +1,13 @@
 # LANIT задание 2
 Программа собирает данные о всех случаях заражения COVID-19, и после выводит перцентиль.
 Все данные берутся из https://covid.ourworldindata.org/data/owid-covid-data.json
+
+## Зависимости
+python 3.9.1
+numpy 1.20.1
+requests 2.25
+json
+
 Список кодов стран:
 ```
 AFG
